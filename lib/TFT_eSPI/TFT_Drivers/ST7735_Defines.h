@@ -7,17 +7,17 @@
 #define TFT_HEIGHT 160
 #endif
 
-//#define ST7735_INITB
+// #define ST7735_INITB
 // #define ST7735_INITB
 // #define ST7735_GREENTAB
 // #define ST7735_GREENTAB2
-//#define ST7735_GREENTAB3
+// #define ST7735_GREENTAB3
 // #define ST7735_GREENTAB128    // For 128 x 128 display
-#define ST7735_GREENTAB160x80  // For 160 x 80 display (BGR, inverted, 26
+// #define ST7735_GREENTAB160x80  // For 160 x 80 display (BGR, inverted, 26
                                // offset)
                                //#define ST7735_REDTAB
-//#define ST7735_BLACKTAB
-//#define ST7735_REDTAB160x80
+// #define ST7735_BLACKTAB
+// #define ST7735_REDTAB160x80
 // Enumerate the different configurations
 
 #define INITR_GREENTAB 0x0
